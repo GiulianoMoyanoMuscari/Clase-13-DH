@@ -1,0 +1,1 @@
+let dia = "hoy es Miercoles"
