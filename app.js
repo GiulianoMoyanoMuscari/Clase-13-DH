@@ -4,3 +4,4 @@ function semana() {
     dia2: "martes";
     dia3: "miercoles";
 }
+.console.log(dia);
